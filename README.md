@@ -21,6 +21,7 @@ The dataset may not be updated in real time, leading to a time lag between data 
 .                               Life Expectancy ​
 ​
 Global Death Rates and Causes Analysis (1990-2019)
+
 🌐 Project Overview
 This project presents an in-depth analysis of global death rates and their causes over a 30-year period (1990-2019). Utilizing interactive visualizations, we explored trends and relationships among various causes of mortality across 204 countries to identify key insights and patterns.
 
@@ -50,6 +51,7 @@ Life Expectancy at Birth
 
 Source: World Bank Gender Data - Life Expectancy at Birth
 This data provides life expectancy trends, aiding in understanding mortality patterns across different regions and gender groups.
+
 ⚠️ Data Limitations
 Missing Demographics:
 
@@ -86,6 +88,7 @@ Regional Patterns:
 
 Developed Countries: Higher mortality rates from non-communicable diseases (e.g., heart disease, cancer).
 Developing Countries: Higher mortality rates from communicable diseases and nutritional deficiencies.
+
 📊 Visualizations Overview
 Global Death Rate Trends:
 
@@ -96,16 +99,7 @@ A bar chart comparing the top 5 causes of death with their respective mortality 
 Relationships Among Causes:
 
 Visualizations highlighting correlations between causes of death to uncover significant relationships.
-🚀 How to Use This Project
-Explore the Tableau Story:
 
-Access the interactive dashboards to navigate through the visualizations.
-Understand the Insights:
-
-Use the findings to support data-driven decision-making in public health and policy.
-Download and Reproduce:
-
-Clone the repository and access the dataset to reproduce the analysis or build upon it.
 📥 Access the Project
 Tableau Visualization: View on Tableau Public
 [
