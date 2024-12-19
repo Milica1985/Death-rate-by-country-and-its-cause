@@ -27,6 +27,8 @@ Global Death Rates and Causes Analysis (1990-2019)
 This project presents an in-depth analysis of global death rates and their causes over a 30-year period (1990-2019). Utilizing interactive visualizations, we explored trends and relationships among various causes of mortality across 204 countries to identify key insights and patterns.
 
 Access the Interactive Visualizations: Global Death Rates and Causes Analysis on Tableau Public
+[
+https://public.tableau.com/app/profile/milica.kikovic/viz/DeathrateofcountriesanditscausesEDAMilicaKikovic/Story1
 
 🎯 Project Objectives
 Examine Trends: Analyze the progression of death rates globally over three decades.
@@ -55,23 +57,19 @@ This data provides life expectancy trends, aiding in understanding mortality pat
 
 ⚠️ Data Limitations
 Missing Demographics:
-
 Age groups, gender, unemployment rates, education levels, and poverty rates are not included.
 Data Completeness:
-
 Missing values for certain countries or specific causes of death.
 Coverage Limitations:
-
 The dataset may not include all countries or significant causes of death.
 Reporting Inconsistencies:
-
 Differences in reporting standards and definitions of causes of death across countries.
-Time Lag:
 
+Time Lag:
 Data may not be updated in real-time, leading to potential delays between collection and availability.
+
 🔍 Key Findings
 Leading Causes of Death:
-
 High Systolic Blood Pressure remains the leading cause of mortality, with 888,664 deaths recorded.
 Top 5 Causes:
 
@@ -92,16 +90,9 @@ Developing Countries: Higher mortality rates from communicable diseases and nutr
 
 📊 Visualizations Overview
 Global Death Rate Trends:
-
 An interactive line chart showing trends in the top causes of mortality from 1990 to 2019.
 Cause-Specific Mortality Rates:
-
-A bar chart comparing the top 5 causes of death with their respective mortality figures.
-Relationships Among Causes:
-
 Visualizations highlighting correlations between causes of death to uncover significant relationships.
-
 📥 Access the Project
 Tableau Visualization: View on Tableau Public
-[
-](https://public.tableau.com/app/profile/milica.kikovic/viz/DeathrateofcountriesanditscausesEDAMilicaKikovic/Story1)
+
